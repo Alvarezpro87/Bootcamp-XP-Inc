@@ -1,0 +1,14 @@
+C:\Users\Xandaum\Desktop\C#\Hospedagem de um Hotel\bin\Debug\net8.0\Hospedagem de um Hotel.exe
+C:\Users\Xandaum\Desktop\C#\Hospedagem de um Hotel\bin\Debug\net8.0\Hospedagem de um Hotel.deps.json
+C:\Users\Xandaum\Desktop\C#\Hospedagem de um Hotel\bin\Debug\net8.0\Hospedagem de um Hotel.runtimeconfig.json
+C:\Users\Xandaum\Desktop\C#\Hospedagem de um Hotel\bin\Debug\net8.0\Hospedagem de um Hotel.dll
+C:\Users\Xandaum\Desktop\C#\Hospedagem de um Hotel\bin\Debug\net8.0\Hospedagem de um Hotel.pdb
+C:\Users\Xandaum\Desktop\C#\Hospedagem de um Hotel\obj\Debug\net8.0\Hospedagem de um Hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xandaum\Desktop\C#\Hospedagem de um Hotel\obj\Debug\net8.0\Hospedagem de um Hotel.AssemblyInfoInputs.cache
+C:\Users\Xandaum\Desktop\C#\Hospedagem de um Hotel\obj\Debug\net8.0\Hospedagem de um Hotel.AssemblyInfo.cs
+C:\Users\Xandaum\Desktop\C#\Hospedagem de um Hotel\obj\Debug\net8.0\Hospedagem de um Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Xandaum\Desktop\C#\Hospedagem de um Hotel\obj\Debug\net8.0\Hospedagem de um Hotel.dll
+C:\Users\Xandaum\Desktop\C#\Hospedagem de um Hotel\obj\Debug\net8.0\refint\Hospedagem de um Hotel.dll
+C:\Users\Xandaum\Desktop\C#\Hospedagem de um Hotel\obj\Debug\net8.0\Hospedagem de um Hotel.pdb
+C:\Users\Xandaum\Desktop\C#\Hospedagem de um Hotel\obj\Debug\net8.0\Hospedagem de um Hotel.genruntimeconfig.cache
+C:\Users\Xandaum\Desktop\C#\Hospedagem de um Hotel\obj\Debug\net8.0\ref\Hospedagem de um Hotel.dll

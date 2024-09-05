@@ -1,0 +1,14 @@
+C:\Users\Xandaum\Desktop\C#\ExemplosFundamentos\bin\Debug\net8.0\ExemplosFundamentos.exe
+C:\Users\Xandaum\Desktop\C#\ExemplosFundamentos\bin\Debug\net8.0\ExemplosFundamentos.deps.json
+C:\Users\Xandaum\Desktop\C#\ExemplosFundamentos\bin\Debug\net8.0\ExemplosFundamentos.runtimeconfig.json
+C:\Users\Xandaum\Desktop\C#\ExemplosFundamentos\bin\Debug\net8.0\ExemplosFundamentos.dll
+C:\Users\Xandaum\Desktop\C#\ExemplosFundamentos\bin\Debug\net8.0\ExemplosFundamentos.pdb
+C:\Users\Xandaum\Desktop\C#\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xandaum\Desktop\C#\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.AssemblyInfoInputs.cache
+C:\Users\Xandaum\Desktop\C#\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.AssemblyInfo.cs
+C:\Users\Xandaum\Desktop\C#\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\Xandaum\Desktop\C#\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.dll
+C:\Users\Xandaum\Desktop\C#\ExemplosFundamentos\obj\Debug\net8.0\refint\ExemplosFundamentos.dll
+C:\Users\Xandaum\Desktop\C#\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.pdb
+C:\Users\Xandaum\Desktop\C#\ExemplosFundamentos\obj\Debug\net8.0\ExemplosFundamentos.genruntimeconfig.cache
+C:\Users\Xandaum\Desktop\C#\ExemplosFundamentos\obj\Debug\net8.0\ref\ExemplosFundamentos.dll
