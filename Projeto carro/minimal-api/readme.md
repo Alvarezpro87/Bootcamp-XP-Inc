@@ -31,7 +31,7 @@ Este projeto é uma API mínima desenvolvida em ASP.NET Core que gerencia admini
 1. **Clone o Repositório**
 
    ```bash
-   git clone https://github.com/seu-usuario/minimal-api.git
+   git clone https://github.com/Alvarezpro87/Bootcamp-XP-Inc/tree/532a2c73c84adf37debc17fc1571b990b4d7aed0/Projeto%20carro/minimal-api
 
 2. **Configure a String de Conexão**
    No arquivo appsettings.json, atualize a string de conexão para apontar para o seu servidor SQL Server:
