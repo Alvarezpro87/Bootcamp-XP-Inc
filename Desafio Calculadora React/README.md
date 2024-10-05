@@ -29,4 +29,34 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
 Abra o terminal e execute o seguinte comando para clonar o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/Alvarezpro87/Bootcamp-XP-Inc.git
+
+```
+### 3. Instalar Dependências
+```bash
+npm install
+```
+
+### 3. Executar o Projeto
+```bash
+npm start
+```
+
+## 📂 Estrutura do Projeto
+```bash
+.
+├── public
+├── src
+│   ├── components
+│   │   ├── Button
+│   │   │   ├── index.js
+│   │   │   └── styles.js
+│   │   ├── Input
+│   │   │   ├── index.js
+│   │   │   └── styles.js
+│   ├── App.js
+│   ├── styles.js
+│   └── index.js
+└── README.md
+
+```
